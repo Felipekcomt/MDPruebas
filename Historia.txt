@@ -1,1 +1,2 @@
-Este es una prubea de git
+Este es una pruba de git corregido
+acá cambia
