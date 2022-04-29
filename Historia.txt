@@ -1,2 +1,2 @@
 Este es una pruba de git corregido
-acá cambia
+acá cambia la historia
